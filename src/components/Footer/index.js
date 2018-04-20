@@ -9,12 +9,12 @@ const Header = () => (
           href="https://taylorbryant.blog"
           className="font-bold no-underline text-white"
         >
-          Taylor Bryant
+          Dmitriy Ostrovskiy, Eric Bartos
         </a>
       </p>
       <p>
         <a
-          href="https://github.com/taylorbryant/gatsby-starter-tailwind"
+          href="https://github.com/dimaostrov/csvis"
           className="font-bold no-underline text-white"
         >
           GitHub
